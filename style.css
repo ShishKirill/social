@@ -109,6 +109,10 @@ h3 {
     color: hsl(333, 80%, 67%);
 }
 
+h4 {
+    margin:0 0 0 20px;
+}
+
 span {
     line-height: 1.5;
     font-size: 0.9em;
@@ -183,30 +187,6 @@ span {
         margin-top: 40px;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 footer {
     margin-top: auto;
