@@ -96,7 +96,7 @@ p {
     margin-top: 2em;
 }
 
-h2 {
+h3 {
     margin: 5px 0 0 20px;
     color: white;
     font-size: 1em;
@@ -109,8 +109,9 @@ figure {
     color: hsl(333, 80%, 67%);
 }
 
-h3 {
+h2 {
     margin:0 0 0 20px;
+    font-size:1em;
 }
 
 span {
